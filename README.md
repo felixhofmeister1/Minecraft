@@ -9,7 +9,7 @@ sounds are generated at runtime, so there are no asset files.
 
 Open `index.html` in a current browser (Chrome, Edge, Firefox or Safari with WebGL 2).
 It works from the file system or any static server. With GitHub Pages enabled on this repo
-it's playable at **https://felixhofmeister1.github.io/minecraft/**. Touch devices are detected automatically and
+it's playable at **https://felixhofmeister1.github.io/Minecraft/**. Touch devices are detected automatically and
 get on-screen controls; you can override this in **Settings → Controls**. The world
 auto-saves to `localStorage` (on pause, every 30 s and when the tab is hidden), and
 **Continue World** on the title screen resumes it.
